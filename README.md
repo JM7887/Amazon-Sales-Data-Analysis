@@ -53,7 +53,7 @@ This Power BI dashboard analyzes Amazon sales data to provide insights into sale
 
 
 ## Conclusion
-###The analysis reveals the following key insights:
+### The analysis reveals the following key insights:
 
 - North America is the top-performing region in terms of revenue and units sold, while Sub-Saharan Africa has the highest average unit price, indicating premium product sales.
 
