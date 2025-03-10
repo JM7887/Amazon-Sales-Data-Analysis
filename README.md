@@ -1,4 +1,4 @@
-# Amazon Sales Analysis Using Power-BI
+# Amazon Sales Dashboard Using Power-BI
 
 ## Project Overview
 This Power BI dashboard analyzes Amazon sales data to provide insights into sales performance, revenue, costs, and profitability across different regions, sales channels, and product categories. The dashboard visualizes key metrics such as total revenue, total profit, units sold, and unit costs, helping stakeholders understand sales trends and make data-driven decisions.
